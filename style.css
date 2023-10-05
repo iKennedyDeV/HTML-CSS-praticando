@@ -1,0 +1,18 @@
+.navbar{
+    margin-bottom: 40px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+.figure{
+    width: 50px;
+}
+.card-header-title{
+    background-color:#00d1b2
+}
+
+a:hover{
+    color: #00d1b2;
+}
+
